@@ -1,6 +1,6 @@
 # Theft Detection
 
-This appis intended to setup on local security cameras. Depends on the camre position, on the first setup you need to draw the line for customer should not pass and which side customer is, then this information will be saved in the json file.
+This app is intended to setup on local security cameras. Depends on the camera position, on the first setup you need to draw the line for customer should not pass and which side customer is, then this information will be saved in the json file.
 
 After that when a person hands passes the border you set, it will set an alarm. 
 
